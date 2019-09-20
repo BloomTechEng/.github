@@ -3,7 +3,7 @@
 
 ## Jira Issue
 
-Please *link* to the cooresponding Jira issue.
+Please *link* to the corresponding Jira issue.
 
 ## Description
 
