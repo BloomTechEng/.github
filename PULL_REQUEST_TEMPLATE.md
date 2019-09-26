@@ -3,13 +3,14 @@
 
 ## Jira Issue
 
-Please *link* to the cooresponding Jira issue.
+Please *link* to the corresponding Jira issue.
 
 ## Description
 
 Please include a summary of the change, motivation, and context.
 
 ## Type of change
+_Place an `x` in between the corresponding `[ ]`._
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
