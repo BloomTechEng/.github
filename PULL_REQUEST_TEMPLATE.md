@@ -4,7 +4,7 @@
 ## Jira Issue
 <!-- Please update the link below with the Jira issue number. -->
 
-https://lambdaschool.atlassian.net/browse/CORE-NNN
+[CORE-]
 
 ## Description
 <!-- Please include a summary of the change, motivation, and context. -->
