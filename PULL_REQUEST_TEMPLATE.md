@@ -2,12 +2,14 @@
 <!-- [CORE-123] Fixes an issue where ... -->
 
 ## Jira Issue
+<!-- Please update the link below with the Jira issue number. -->
 
 https://lambdaschool.atlassian.net/browse/CORE-NNN
 
 ## Description
-
 <!-- Please include a summary of the change, motivation, and context. -->
+
+
 
 ## Type of change
 <!-- Place an `x` in between the corresponding `[ ]`. -->
