@@ -1,16 +1,18 @@
-> Please prefix the subject above with the Jira issue number. Example:
-> [JIRA-123] Fixes an issue where ...
+<!-- Please prefix the subject above with the Jira issue number. Example: -->
+<!-- [CORE-123] Fixes an issue where ... -->
 
 ## Jira Issue
+<!-- Please update the link below with the Jira issue number. -->
 
-Please *link* to the corresponding Jira issue.
+[CORE-]
 
 ## Description
+<!-- Please include a summary of the change, motivation, and context. -->
 
-Please include a summary of the change, motivation, and context.
+
 
 ## Type of change
-_Place an `x` in between the corresponding `[ ]`._
+<!-- Place an `x` in between the corresponding `[ ]`. -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
