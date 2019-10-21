@@ -1,5 +1,5 @@
 <!-- Please prefix the subject above with the Jira issue number. Example: -->
-<!-- [CORE-123] Fixes an issue where ... -->
+<!-- [CORE-XYZ] Fixes an issue where ... -->
 
 ## Jira Issue
 <!-- Please update the link below with the Jira issue number. -->
