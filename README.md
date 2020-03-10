@@ -1,2 +1,2 @@
 # .github
-Default GitHub health files
+Default GitHub health files. Hoorray!
