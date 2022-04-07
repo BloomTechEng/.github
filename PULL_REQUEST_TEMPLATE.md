@@ -2,20 +2,26 @@
 <!-- Please include a summary of the change, motivation, and context. Screenshots are encouraged. -->
 
 
+## Additional Resources
+- Link to Jira: <!-- https://bloominstituteoftechnology.atlassian.net/browse/BLOOM- -->
 
-## Type of Change <!-- Delete the ones that do not apply -->
+- Link to documentation, if any:
 
-- Bug fix (non-breaking change which fixes an issue)
-- New feature (non-breaking change which adds functionality)
-- Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- Refactor (no functionality change at all)
 
-<!--
-Note to Author:
+## How Has This Been Tested?
 
-- Did you include the Jira ticket in the title of the pull request?
-- Does this change require a documentation update?
-- Are there other steps that need to be done, before or after this is merged?
-  - If so, consider adding a checklist to this pull request do you don't forget about them.
+<!-- Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration -->
 
--->
+- [ ] Test A
+- [ ] Test B
+
+#### Type of Test Done: <!-- Delete the ones that do not apply -->
+- Unit
+- Integration
+- Manual
+
+## Checklist
+- [ ] I have added a label for the type of change (Bug Fix, New Feature, Breaking Change, Refactor).
+- [ ] I have confirmed that all tests pass.
+- [ ] I have performed a self-review of my own code.
+- [ ] I can't think of any additional scenarios to test.
