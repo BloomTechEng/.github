@@ -2,6 +2,9 @@ changelog:
   exclude:
     labels:
       - ignore-from-release-notes
+     authors:
+      - ls-api-user
+      - dependabot
   categories:
     - title: New Features 🎉
       labels:
