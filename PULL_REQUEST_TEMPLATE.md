@@ -21,7 +21,6 @@
 - Manual
 
 ## Checklist
-- [ ] I have added a GitHub label for the type of change (Bug Fix, New Feature, Breaking Change, Refactor).
 - [ ] I have added the Jira ticket number at the beginning of the PR's title
 - [ ] I have confirmed that all tests pass.
 - [ ] I have performed a self-review of my own code.
