@@ -3,7 +3,7 @@
 
 
 ## Additional Resources
-- Link to Jira: <!-- https://bloominstituteoftechnology.atlassian.net/browse/BLOOM- -->
+- Link to Trello Card: <!-- https://trello.com/b/MrfSF5yE/core-platform -->
 
 - Link to documentation, if any:
 
@@ -21,7 +21,6 @@
 - Manual
 
 ## Checklist
-- [ ] I have added the Jira ticket number at the beginning of the PR's title
 - [ ] I have confirmed that all tests pass.
 - [ ] I have performed a self-review of my own code.
 - [ ] I can't think of any additional scenarios to test.
