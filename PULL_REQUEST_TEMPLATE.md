@@ -21,6 +21,7 @@
 - Manual
 
 ## Checklist
+- [ ] I have added the Trello card number at the beginning of the PR's title & linked to it in the description.
 - [ ] I have confirmed that all tests pass.
 - [ ] I have performed a self-review of my own code.
 - [ ] I can't think of any additional scenarios to test.
