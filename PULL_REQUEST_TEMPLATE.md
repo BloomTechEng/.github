@@ -3,17 +3,14 @@
 
 
 ## Additional Resources
-- Link to Trello Card: <!-- https://trello.com/b/MrfSF5yE/core-platform -->
+Trello card number: 
 
-- Link to documentation, if any:
+Additional documentation, if any:
 
 
 ## How Has This Been Tested?
 
 <!-- Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration -->
-
-- [ ] Test A
-- [ ] Test B
 
 #### Type of Test Done: <!-- Delete the ones that do not apply -->
 - Unit
@@ -21,7 +18,6 @@
 - Manual
 
 ## Checklist
-- [ ] I have added the Trello card number at the beginning of the PR's title & linked to it in the description.
 - [ ] I have confirmed that all tests pass.
 - [ ] I have performed a self-review of my own code.
 - [ ] I can't think of any additional scenarios to test.
